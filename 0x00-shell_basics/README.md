@@ -10,7 +10,9 @@
 
 5-listfilesdigitonly - This script displays current directory contents, including hiddent files in long format, with user and group IDs displayed numerically.
 
-6-firstdirectory - Creates a directory named my_first_directory in the /tmp/ directory
+6-firstdirectory - Creates a directory named my_first_directory in the /tmp/ directory.
 
-7-movethatfile - moves the file 'betty' from /tmp/ to /tmp/my_first_directory
+7-movethatfile - moves the file 'betty' from /tmp/ to /tmp/my_first_directory.
+
+8-firstdelete - deletes the file 'betty' from /tmp/my_first-directory.
 
