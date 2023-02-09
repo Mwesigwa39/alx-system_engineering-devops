@@ -16,3 +16,5 @@
 
 8-James_Bond - This script sets the owner and the group to no permission at all and other users to all the permissions, to the file 'hello'
 
+9-John_Doe - sets the mode of the file 'hello' to -rwxr-x-wx ....
+
