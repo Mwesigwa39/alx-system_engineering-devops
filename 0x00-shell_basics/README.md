@@ -24,3 +24,5 @@
 
 12-file_type - prints the type of the file named 'iamafile' found in the '/tmp' directory.
 
+13-symbolic_link - creates a symbolic link in the current working directory to '/bin/ls', named '_ls_'
+
