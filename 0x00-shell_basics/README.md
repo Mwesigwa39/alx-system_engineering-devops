@@ -26,3 +26,5 @@
 
 13-symbolic_link - creates a symbolic link in the current working directory to '/bin/ls', named '_ls_'
 
+14-copy_html - copies all HTML files from the current directory to the parent of the working directory, but only copies files that did not exist or wer newer than the versions in the parent directory.
+
