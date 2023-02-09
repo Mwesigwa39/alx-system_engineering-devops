@@ -36,3 +36,4 @@
 
 103-commas - lists all the files and directories of the current directory, separated by commas.
 
+school.mgc - used with the command 'file' to detect 'School' data files.
