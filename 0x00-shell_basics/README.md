@@ -28,3 +28,5 @@
 
 14-copy_html - copies all HTML files from the current directory to the parent of the working directory, but only copies files that did not exist or wer newer than the versions in the parent directory.
 
+100-lets_move - moves all files beginning with an uppercase letter to the directory '/tmp/u'
+
