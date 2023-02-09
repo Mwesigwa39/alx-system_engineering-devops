@@ -20,3 +20,5 @@
 
 10-back - changes the working directory to thee previous one.
 
+11-lists - lists all files in the current directory and the parent of the working directory and the /boot directory (in this order) in long format.
+
