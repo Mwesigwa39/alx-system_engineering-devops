@@ -1,0 +1,14 @@
+total 4
+drwxr-xr-x 1 carter carter 512 Feb 13 21:05 .
+drwxr-xr-x 1 carter carter 512 Feb 13 16:20 ..
+-rwxr--r-- 1 carter carter  32 Feb 13 16:34 0-hello_world
+-rwxr--r-- 1 carter carter  28 Feb 13 17:08 1-confused_smiley
+-rwxr--r-- 1 carter carter  28 Feb 13 17:23 2-hellofile
+-rwxr--r-- 1 carter carter  39 Feb 13 17:35 3-twofiles
+-rwxr--r-- 1 carter carter  29 Feb 13 17:53 4-lastlines
+-rwxr--r-- 1 carter carter  29 Feb 13 18:00 5-firstlines
+-rwxr--r-- 1 carter carter  40 Feb 13 19:19 6-third_line
+-rwxr--r-- 1 carter carter  98 Feb 13 20:53 7-file
+-rwxr--r-- 1 carter carter  36 Feb 13 21:02 8-cwd_state
+-rw-r--r-- 1 carter carter 613 Feb 13 21:05 README.md
+-rw-r--r-- 1 carter carter   0 Feb 13 21:05 ls_cwd_content
